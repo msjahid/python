@@ -3,7 +3,7 @@ b = 0
 x = sentence.count('b')
 for i in range (x):
     a = 0 + b
-    b = sentence.find('b',a)
+    b = sentence.find('b',a) # b = sentence.index('b',a)
     print(b)
     b = b + 1
 
