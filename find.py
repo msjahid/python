@@ -1,4 +1,4 @@
-sentence = "how can a clam cram in a clean cream canc"
+sentence = "how can a clam cram in a clean cream can?"
 b = 0
 x = sentence.count('c')
 for i in range (x):
