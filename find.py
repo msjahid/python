@@ -24,3 +24,17 @@ for i in range (x):
 
         
     
+'''
+a = "Banglades is my country"
+a.find('x')
+output: -1
+
+a.index('x')
+output:
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: substring not found
+
+" 'index' and 'find' function are same but main difference is smartness"
+
+'''
